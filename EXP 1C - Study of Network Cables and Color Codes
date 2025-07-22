@@ -1,1 +1,24 @@
-Study of Network Cables and Color Codes
+1. Types of Network Cables
+a. Straight-Through Cable
+Used to connect different types of devices, such as:
+
+PC to Switch
+
+Switch to Router
+
+Wires are in the same order on both ends (usually T568A to T568A or T568B to T568B).
+
+b. Crossover Cable
+Used to connect similar devices, such as:
+
+PC to PC
+
+Switch to Switch
+
+One end uses T568A, and the other end uses T568B.
+
+c. Roll-Over Cable
+Used to connect a PC to a router or switch console port for configuration.
+
+Not used for normal data transmission.
+
